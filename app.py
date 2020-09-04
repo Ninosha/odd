@@ -34,7 +34,7 @@ print("Mike G: ")
 for num, sent in enumerate(tokenized_text2):
     print (f"{num}-{sent}")
 
-print("Mc Nino:")
+print("MC Nino:")
 
 while "OD" in tokenized_text1:
     print(tokenized_text1[5] + tokenized_text1[3] + tokenized_text1[12])
